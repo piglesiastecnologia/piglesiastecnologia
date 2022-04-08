@@ -60,9 +60,9 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piglesiastecnologia&repo=patient-link&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Patient Link" />
 </a>
 
-<a href="https://github.com/piglesiastecnologia/piglesiastecnologia">
+<!-- <a href="https://github.com/piglesiastecnologia/piglesiastecnologia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piglesiastecnologia&repo=gutten&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Gutten" />
-</a>
+</a> -->
 
 <!-- ## 👨‍💻 This week, I spent my time on:
 
