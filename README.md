@@ -51,19 +51,19 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
 </a> -->
 
-## 🏆 GitHub Trophies
-
 
 ## 🗂️ Highlight Projects
 
-<!-- <a href="https://github.com/piglesiastecnologia/piglesiastecnologia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piglesiastecnologia&repo=patient-link&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Patient Link" />
-</a> -->
-
+<a href="https://mercadoeditorial.org/">
+  <img align="center" src="https://mercadoeditorial.org/img/logo-red.svg" alt="Mercado Editorial"  />
+</a>
+<a href="https://gutten.com.br/">
+  <img align="center" src="https://gutten.com.br/wp-content/uploads/2022/01/Gutten-logo-2022.png" alt="Gutten"  />
+</a>
 <!-- <a href="https://github.com/piglesiastecnologia/piglesiastecnologia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piglesiastecnologia&repo=gutten&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Gutten" />
 </a> -->
 
-<!-- ## 👨‍💻 This week, I spent my time on:
+<!-- ## 👨‍💻 This week, I spent my time on: -->
 
-[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->
+
