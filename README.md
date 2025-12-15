@@ -54,11 +54,14 @@ me.say_hi()
 
 ## 🗂️ Highlight Projects
 
-<a href="https://mercadoeditorial.org/">
-  <img align="center" src="https://mercadoeditorial.org/img/logo-red.svg" alt="Mercado Editorial"  />
+<a href="https://bookinfometadados.com.br/">
+  <img align="center" src="https://bookinfometadados.com.br/img/logo-bookinfo-metadados.png" alt="Bookinfo Metadados"  />
 </a>
 <a href="https://gutten.com.br/">
   <img align="center" src="https://gutten.com.br/wp-content/uploads/2022/01/Gutten-logo-2022.png" alt="Gutten"  />
+</a>
+<a href="https://kaijucomics.com.br/">
+  <img align="center" src="https://kaijucomics.com.br/assets/logo-kaiju-DejP_MG6.png" alt="Kaiju Comics"  />
 </a>
 <!-- <a href="https://github.com/piglesiastecnologia/piglesiastecnologia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piglesiastecnologia&repo=gutten&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Gutten" />
