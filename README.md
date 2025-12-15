@@ -61,7 +61,7 @@ me.say_hi()
   <img align="center" style="width: 50%; height: 50%" src="https://gutten.com.br/wp-content/uploads/2022/01/Gutten-logo-2022.png" alt="Gutten"  />
 </a> 
 <a href="https://kaijucomics.com.br/">
-  <img align="center" style="width: 50%; height: 50%" src="https://kaijucomics.com.br/assets/logo-kaiju-DejP_MG6.png" alt="Kaiju Comics"  />
+  <img align="center" style="width: 30%; height: 30%" src="https://kaijucomics.com.br/assets/logo-kaiju-DejP_MG6.png" alt="Kaiju Comics"  />
 </a>
 <!-- <a href="https://github.com/piglesiastecnologia/piglesiastecnologia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piglesiastecnologia&repo=gutten&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Gutten" />
