@@ -55,7 +55,7 @@ me.say_hi()
 ## 🗂️ Highlight Projects
 
 <a href="https://bookinfometadados.com.br/">
-  <img align="center" weight="50%" src="https://bookinfometadados.com.br/img/logo-bookinfo-metadados.png" alt="Bookinfo Metadados"  />
+  <img align="center" style="weight: 50%" src="https://bookinfometadados.com.br/img/logo-bookinfo-metadados.png" alt="Bookinfo Metadados"  />
 </a>
 <a href="https://gutten.com.br/">
   <img align="center" weight="50%" src="https://gutten.com.br/wp-content/uploads/2022/01/Gutten-logo-2022.png" alt="Gutten"  />
