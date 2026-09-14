@@ -56,9 +56,9 @@ me.say_hi()
 <a href="https://bookinfometadados.com.br/">
   <img align="center" style="width: 50%; height: 50%" src="https://bookinfometadados.com.br/img/logo-bookinfo-metadados.png" alt="Bookinfo Metadados"  />
 </a>
-<a href="https://gutten.com.br/">
+<!-- <a href="https://gutten.com.br/">
   <img align="center" style="width: 50%; height: 50%" src="https://gutten.com.br/wp-content/uploads/2022/01/Gutten-logo-2022.png" alt="Gutten"  />
-</a> 
+</a> -->
 <a href="https://kaijucomics.com.br/">
   <img align="center" style="width: 30%; height: 30%" src="https://kaijucomics.com.br/assets/logo-kaiju-DejP_MG6.png" alt="Kaiju Comics"  />
 </a>
